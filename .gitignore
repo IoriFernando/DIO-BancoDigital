@@ -1,0 +1,25 @@
+# Diretórios padrão a serem ignorados
+bin/
+target/
+temp/
+workspaces/
+logs/
+.project
+.classpath
+
+# Arquivos de configuração
+*.properties
+*.xml
+
+# Pastas de documentação
+doc/
+javadoc/
+
+# IDE específico
+.metadata/
+
+# Arquivos temporários do Maven
+target/m2e-wtp/WEB-INF/classes
+
+# Arquivos temporários do Gradle
+build/
